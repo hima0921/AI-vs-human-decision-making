@@ -22,7 +22,7 @@ The main question is:
 
 ## Files
 - Study design and analysis plan (PDF): [View here](Study-design-and-analysis-plan.pdf) – Full study design, variables, and analysis plan  
-- Slides (interactive): https://hima0921.github.io/ai-vs-human-decision-making/ – Presentation version of the project  
+- Slides (interactive): https://hima0921.github.io/AI-vs-human-decision-making/ – Presentation version of the project  
 
 ## Context
 This project was developed as part of academic coursework at Arizona State University.
